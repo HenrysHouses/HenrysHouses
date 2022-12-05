@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm a games student from norway focusing on programming and game design.
+
+Check out some of the projects I've been a part of
+ - https://sites.google.com/view/henrikhustoft-portfolio/start
+ - https://henryhouse.itch.io/
 
 <!--
 **HenrysHouses/HenrysHouses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
